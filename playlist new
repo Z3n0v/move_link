@@ -33,7 +33,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD
 #EXTINF:-1 tvg-id="Indosiar" tvg-url="" tvg-logo="https://iili.io/JMp3wV1.png/1280px-INDOSIAR_Logo.png" group-title="Indonesia Channels",Indosiar
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8|user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1&referrer=http://dens.tv
 #EXTINF:-1 tvg-id="Indosiar" tvg-url="" tvg-logo="https://iili.io/JMp3wV1.png/1280px-INDOSIAR_Logo.png" group-title="Indonesia Channels",Indosiar [vip]
-http://opplex.tv:80/live/mother/mother/350972.ts
+http://opplex.tv:8080/live/12345678910/12345678910/350972.ts
 #EXTINF:-1 tvg-id="Moji" tvg-url="" tvg-logo="https://iili.io/JMp3vUJ.png" group-title="Indonesia Channels",MOJI
 http://opplex.tv:8080/live/12345678910/12345678910/350997.ts
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
