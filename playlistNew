@@ -59,6 +59,8 @@ https://cempedak-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTINF:-1 tvg-id="Trans7" tvg-url="" tvg-logo="https://iili.io/JMp3Qls.png" group-title="Indonesia Channels",Trans7
 https://cempedak-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd|license_type=com.widevine.alpha&license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi&referrer=https://visionplus.id
+#EXTINF:-1 tvg-id="Trans7" tvg-url="" tvg-logo="https://iili.io/JMp3Qls.png" group-title="Indonesia Channels",Trans7 [vip]
+http://vipkjbw.top:8080/live/VIP0192170801043953/c3448c66c871/34325.ts
 #EXTINF:-1 tvg-id="ANTV - [Channel 115].id"tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://iili.io/JMp31cb.png" group-title="Indonesia Channels",ANTV
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 https://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
