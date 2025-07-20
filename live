@@ -1,49 +1,43 @@
+#EXTM3U url-tvg="https://pastebin.com/raw/0BqRzh3n, https://www.bevy.be/bevyfiles/indonesia.xml, https://www.bevy.be/bevyfiles/indonesia1.xml, https://www.bevy.be/bevyfiles/indonesia2.xml, https://www.bevy.be/bevyfiles/indonesia3.xml, https://www.bevy.be/bevyfiles/indonesia4.xml, https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml, https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml, https://www.bevy.be/bevyfiles/malaysiapremium1.xml, https://www.bevy.be/bevyfiles/singaporepremium.xml, https://www.bevy.be/bevyfiles/singaporepremium2.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml, https://www.bevy.be/bevyfiles/philippines.xml, https://www.bevy.be/bevyfiles/philippinespremium2.xml, https://www.bevy.be/bevyfiles/thailand.xml, https://www.bevy.be/bevyfiles/thailandpremium.xml, https://www.bevy.be/bevyfiles/vietnam.xml, https://raw.githubusercontent.com/Newbiect/epg/master/guide.xml, https://raw.githubusercontent.com/Newbiect/epg/master/guide.xml, https://raw.githubusercontent.com/soju6jan/epg2/main/file/xmltv_all2.xml, https://www.bevy.be/bevyfiles/australia1.xml, https://www.bevy.be/bevyfiles/china1.xml, https://www.bevy.be/bevyfiles/india1.xml, https://www.bevy.be/bevyfiles/india2.xml, https://www.bevy.be/bevyfiles/israelpremium.xml, , https://www.bevy.be/bevyfiles/koreapremium.xml, https://www.bevy.be/bevyfiles/mongolia1.xml, https://www.bevy.be/bevyfiles/pakistan.xml, https://www.bevy.be/bevyfiles/palestine1.xml, https://www.bevy.be/bevyfiles/uaepremium2.xml, https://www.bevy.be/bevyfiles/portugal.xml, https://www.bevy.be/bevyfiles/spain1.xml, https://www.bevy.be/bevyfiles/unitedkingdom1.xml, https://www.bevy.be/bevyfiles/unitedkingdom4.xml, https://www.bevy.be/bevyfiles/brazil1.xml, https://www.bevy.be/bevyfiles/colombia2.xml, https://www.bevy.be/bevyfiles/unitedstates1.xml, https://www.bevy.be/bevyfiles/unitedstates7.xml, https://www.bevy.be/bevyfiles/canadapremium.xml, https://www.bevy.be/bevyfiles/france.xml, https://www.bevy.be/bevyfiles/germanypremium2.xml, https://www.bevy.be/bevyfiles/switzerland.xml, https://www.bevy.be/bevyfiles/ireland.xml, https://www.bevy.be/bevyfiles/irelandpremium.xml, https://www.bevy.be/bevyfiles/romania.xml, https://raw.githubusercontent.com/Nomenteros/Nomentero_Epg/master/Nomenteroguide.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SkySportNow/epg.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/DStv/za.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/us.xml, https://raw.githubusercontent.com/skutyborsuk/IPTV/master/epg_v5.xml, https://raw.githubusercontent.com/luizoliveira1970/epg/main/epg_ripper_BR1.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SkyGo/epg.xml, https://www.bevy.be/bevyfiles/herlands.xml, https://www.bevy.be/bevyfiles/sweden.xml, https://www.bevy.be/bevyfiles/turkeypremium1.xml, https://www.bevy.be/bevyfiles/italypremium.xml, https://www.bevy.be/bevyfiles/serbia.xml, https://www.bevy.be/bevyfiles/denmark.xml, https://www.bevy.be/bevyfiles/argentina.xml, https://www.bevy.be/bevyfiles/hongkong.xml, https://www.bevy.be/bevyfiles/hongkongpremium.xml, https://www.bevy.be/bevyfiles/mexico.xml, https://www.bevy.be/bevyfiles/chile.xml, https://www.bevy.be/bevyfiles/belgium.xml, https://www.bevy.be/bevyfiles/belgiumpremium.xml, https://www.bevy.be/bevyfiles/irelandpremium.xml, https://www.bevy.be/bevyfiles/taiwanpremium.xml, https://www.bevy.be/bevyfiles/arabiapremium2.xml, https://www.bevy.be/bevyfiles/arabiapremiumeng.xml, https://www.bevy.be/bevyfiles/unitedkingdom1.xml, https://www.bevy.be/bevyfiles/unitedkingdom4.xml, https://github.com/akkradet/IPTV-THAI/raw/master/guide.xml,http://poid0020.trueddns.com:54337/guide.xml,https://iptv36.vercel.app/epg.xml,https://epg.pw/xmltv/epg_TH.xml, https://www.bevy.be/bevyfiles/thailandpremium.xml,https://xmltv.tvkaista.net/guides/tv.trueid.net.xml,https://albaforge.com/bin-cas6u/epg/an/EPG/ARGENTINA.xml.gz,https://albaforge.com/bin-cas6u/epg/an/EPG/FLOWTV.xml.gz,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/uruguay2.xml.gz" refresh="3600"
+
+
 #EXTM3U
 #EXTINF:-1 tvg-id="GTV" tvg-url="" tvg-logo="https://iili.io/JMp3joP.png" group-title="Indonesia Channels",GTV
 https://gtv-cutv.rctiplus.id/gtv-sdi-avc1_800000=7-mp4a_96000=1.m3u8
 #EXTINF:-1 tvg-id="GTV"tvg-url=""tvg-logo="https://iili.io/JMp3joP.png" group-title="Indonesia Channels",GTV [vip]
-http://viprteaapi.top:8080/live/VIP016711740843834357/e33cd35974af/34331.ts
+http://103.180.118.5:9981/stream/channelid/603010024
 #EXTINF:-1 tvg-id="RCTI"tvg-logo="https://iili.io/JMp36xI.png" group-title="Indonesia Channels", RCTI
 https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
 #EXTINF:-1 tvg-id="RCTI"tvg-logo="https://iili.io/JMp36xI.png" group-title="Indonesia Channels", RCTI [vip]
-http://viprteaapi.top:8080/VIP018551731161923128/e166f1eb6235/34322
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/400200742.ts
 #EXTINF:-1 tvg-id="SCTV" tvg-logo="https://iili.io/JMp3iiX.png" group-title="Indonesia Channels",SCTV
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 #EXTINF:-1 tvg-id="SCTV" tvg-logo="https://iili.io/JMp3iiX.png" group-title="Indonesia Channels",SCTV [vip]
-http://opplex.tv:8080/live/mother/mother/351030.ts
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+http://exm3u.extraott.com:900/live/ZUL96376/UG4VTW4E/401586526.ts
 #EXTINF:-1 tvg-id="MNCTV " tvg-url="" tvg-logo="https://iili.io/JMp3kla.png" group-title="Indonesia Channels",MNC TV
-https://av-ch-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash/MNCTV-HD.mpd|license_type=com.widevine.alpha&license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36&referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+http://103.99.136.34:9981/stream/channelid/1115378633?ticket=441D7C313FD416F364B9B101EF6BB27D7C7161D1&profile=pass
 #EXTINF:-1 tvg-id="iNews" tvg-url="" tvg-logo="https://iili.io/JV3x4Fs.png" group-title="Indonesia Channels",iNews
-https://av-ch-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash/iNewsTV-HDD.mpd|license_type=com.widevine.alpha&license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36&referrer=https://www.visionplus.id/
+https://cdn10jtedge.indihometv.com/atm/DASH/inews/manifest.mpd
 #EXTINF:-1 tvg-id="iNews" tvg-url="" tvg-logo="https://iili.io/JV3x4Fs.png" group-title="Indonesia Channels",iNews [vip]
-http://viprteaapi.top:8080/VIP018551731161923128/e166f1eb6235/34335
+http://103.99.136.34:9981/stream/channelid/1846444973?ticket=A6FCF199CD2524256FA973ABFB56D524D323A2D5&profile=pass
 #EXTINF:-1 tvg-id="Indosiar" tvg-url="" tvg-logo="https://iili.io/JMp3wV1.png/1280px-INDOSIAR_Logo.png" group-title="Indonesia Channels",Indosiar
 https://cdn10jtedge.indihometv.com/atm/DASH/indosiar/manifest.mpd
 #EXTINF:-1 tvg-id="Indosiar" tvg-url="" tvg-logo="https://iili.io/JMp3wV1.png/1280px-INDOSIAR_Logo.png" group-title="Indonesia Channels",Indosiar [vip]
-http://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8?app_type=web&userid=lite&chname=indosiar|user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1&referrer=http://dens.tv
+http://exm3u.extraott.com:900/live/ZUL96376/UG4VTW4E/401666241.ts
 #EXTINF:-1 tvg-id="Moji" tvg-url="" tvg-logo="https://iili.io/JMp3vUJ.png" group-title="Indonesia Channels",MOJI
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8|user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1&referrer=http://dens.tv
 #EXTINF:-1 tvg-id="Moji" tvg-url="" tvg-logo="https://iili.io/JMp3vUJ.png" group-title="Indonesia Channels",MOJI [VIP]
-http://opplex.tv:8080/live/mother/mother/350997.ts
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/401666236.ts
 #EXTINF:-1 tvg-id="TransTV" tvg-url="" tvg-logo="https://iili.io/JMp3ZUG.png" group-title="Indonesia Channels",TransTV
 https://nonton.site:8443/XtreamFlixID/w9RLHbWJY4/929
 #EXTINF:-1 tvg-id="Trans7" tvg-url="" tvg-logo="https://iili.io/JMp3Qls.png" group-title="Indonesia Channels",Trans7
-http://xott.live:8080/003335449966/003335449966/351040
+https://nonton.site:8443/XtreamFlixID/w9RLHbWJY4/35
 #EXTINF:-1 tvg-id="Trans7" tvg-url="" tvg-logo="https://iili.io/JMp3Qls.png" group-title="Indonesia Channels",Trans7 [VIP]
-http://viprteaapi.top:8080/VIP018551731161923128/e166f1eb6235/34325
+http://103.172.71.153:9981/stream/channelid/2040670210?profile=pass
 #EXTINF:-1 tvg-id="ANTV - [Channel 115].id"tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://iili.io/JMp31cb.png" group-title="Indonesia Channels",ANTV
 https://nonton.site:8443/XtreamFlixID/w9RLHbWJY4/31
 #EXTINF:-1 tvg-logo="https://iili.io/JMp3pb2.png" group-title="Indonesia Channels",VTV
-#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
-https://flv.intechmedia.net/live/ch107.m3u8
+http://103.226.232.199:9003/play/a0iu/index.m3u8
 #EXTINF:-1 tvg-id="NET TV - [Channel 116].id" group-title="Indonesia Channels" tvg-url="tvg-url="" tvg-logo="https://iili.io/JMp3URR.png",NET
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 
 http://op-group1-swiftservesd-1.dens.tv/h/h06/01.m3u8
@@ -404,7 +398,7 @@ https://saktitv.siar.us/saktitv/live/playlist.m3u8
 <================ Knowledge & Documentary ==========================>
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/History.png" group-title="Knowledge & Documentary", History
-https://nonton.site:8443/XtreamFlixID/w9RLHbWJY4/8131
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/191945.ts
 #EXTINF:-1 tvg-id="BBC Earth HD"tvg-logo="https://iili.io/JmoCwfS.png" group-title="Knowledge & Documentary",BBC Earth
 https://apollo.production-public.tubi.io/live/ac-bbc-earth2.m3u8
 #EXTINF:-1 group-title="Knowledge & Documentary" tvg-id="Animal Planet"tvg-logo="https://iili.io/JmoCOg9.png", ANIMAL PLANET
@@ -434,7 +428,7 @@ http://mmk241018.wanicelife.com:8880/D12m4171/17795305/30047
 #EXTINF:-1 tvg-logo="https://iili.io/JmoCwfS.png"group-title="Knowledge & Documentary",BBC America
 http://mmk241018.wanicelife.com:8880/D12m4171/17795305/3160
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8TJywqSBbqcRw8p6iHvkZmruQRcn-K4a_1Q&usqp=CAU" group-title="Knowledge & Documentary",BBC Lifestyle
-http://mmk241018.wanicelife.com:8880/D12m4171/17795305/71120
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/400200779.ts
 #EXTINF:-1 tvg-logo="https://images.fubo.tv/station_logos/Justice-CentralTV_m.png" group-title="Knowledge & Documentary",Justice Central TV
 http://mmk241018.wanicelife.com:8880/D12m4171/17795305/29433
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_pandatv_small.png" group-title="Knowledge & Documentary",Panda TV
@@ -442,7 +436,7 @@ https://cdn09jtedge.indihometv.com/joss/130/pandatv/index.m3u8
 #EXTINF:=1 tvg-id="DiscoveryAsia" tvg-name="" group-title="Knowledge & Documentary" tvg-logo="https://iili.io/JmoC8Ob.png",DISCOVERY ASIA
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052475
 #EXTINF:-1 tvg-logo="https://toppng.com/uploads/preview/discovery-channel-discovery-channel-videos-logo-11563508656irnwtaeoly.png" group-title="Knowledge & Documentary",Discovery HD
-http://bestp55.xyz:80/A7FC77529786/519C32219872/1052477
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/191913.ts
 #EXTINF:-1 tvg-url="" tvg-id="Discovery world" tvg-logo="https://iili.io/JmoCv5u.png" group-title="Knowledge & Documentary",Discovery World
 http://opplex.tv:80/live/mother/mother/350933.ts
 #EXTINF:-1 tvg-logo="https://toppng.com/uploads/preview/discovery-channel-discovery-channel-videos-logo-11563508656irnwtaeoly.png" group-title="Knowledge & Documentary",Discovery Family
@@ -459,10 +453,8 @@ http://mmk241018.wanicelife.com:8880/D12m4171/17795305/60026
 https://autentic-adventure-earth-1-gb.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Knowledge & Documentary" tvg-id="National Geographic Channel HD" tvg-url=""tvg-logo="https://iili.io/JmoCZ5g.png",Outdoor Channel
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://iili.io/JmoCsg1.png" group-title="Knowledge & Documentary",Love Nature
-https://WahyuIPTV.short.gy/LoveNature-HD.mpd
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/13104.ts
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -476,7 +468,7 @@ http://opplex.tv:8080/live/mother/mother/351036.ts
 #EXTINF:-1 tvg-id="Global Trekker" tvg-url="" tvg-logo="https://iili.io/JmoCrWQ.png" group-title="Knowledge & Documentary",Global Trekker
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052495
 #EXTINF:-1 group-title="Knowledge & Documentary" tvg-id="CGTN Documentary" tvg-url="" tvg-logo="https://iili.io/JmoChs2.png",CGTN Documentary
-https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/45001.ts
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://www.dens.tv/images/channel-logo/1.jpg" group-title="Knowledge & Documentary",Dens Learning
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -585,7 +577,7 @@ http://fr.ottv.pro:8080/live/4443203322151460/4443203322151460/396885.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/34/INSP_logo_2022.png" group-title="Entertainment & LifeStyle",INSP TV
 http://fr.ottv.pro:8080/live/4443203322151460/4443203322151460/396523.ts
 #EXTINF:-1 tvg-id="AsianFoodNetwork.sg" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/640px-Asian_Food_Network.svg.png" group-title="Entertainment & LifeStyle",Asian Food Network
-https://nonton.site:8443/XtreamFlixID/w9RLHbWJY4/807
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/191842.ts
 #EXTINF:-1 tvg-id="TLCSoutheastAsia.sg" tvg-url="" tvg-logo="https://iili.io/Jmo0AYb.png" group-title="Entertainment & LifeStyle",TLC
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052613
 #EXTINF:-1 tvg-id=""tvg-url=""tvg-id="FoodNetworkAsia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/492px-Food_Network_New_Logo.png" group-title="Entertainment & LifeStyle",Food Network
@@ -593,7 +585,7 @@ http://mmk241018.wanicelife.com:8880/D12m4171/17795305/3133
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Cooking_Channel_Canada.png/1200px-Cooking_Channel_Canada.png" group-title="Entertainment & LifeStyle",Cooking Channel
 http://mmk241018.wanicelife.com:8880/D12m4171/17795305/29573
 #EXTINF:-1 tvg-logo="https://iili.io/Jmo0xC7.png" group-title="Entertainment & LifeStyle",HGTV
-https://nonton.site:8443/XtreamFlixID/w9RLHbWJY4/537
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/191944.ts
 #EXTINF:-1 tvg-logo="https://iili.io/JmoCPqB.png" group-title="Entertainment & LifeStyle",History
 http://filex.tv:8080/live/aftab123/004090/302254.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Game_Show_Network_logo%2C_2013%E2%80%932015.png/1024px-Game_Show_Network_logo%2C_2013%E2%80%932015.png" group-title="Entertainment & LifeStyle",Game Show Network
@@ -761,677 +753,6 @@ http://line.4k-beast.co:80/D0:D0:03:05:DE:73/45A205/1483868
 http://line.4k-beast.co:80/D0:D0:03:05:DE:73/45A205/1483869
 #EXTINF:-1,group-title="SKY STORE",SKY STORE PREMIERE 30 HD
 http://line.4k-beast.co:80/D0:D0:03:05:DE:73/45A205/1483870
-
-<======================== 24/7 ==========================>
-#EXTINF:-1,group-title="24/7",
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/57876
-#EXTINF:-1,group-title="24/7", 001:ADVENTURE TIME
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60941
-#EXTINF:-1,group-title="24/7", 002:AVATAR
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60940
-#EXTINF:-1,group-title="24/7", 003:A HAUNTING
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60939
-#EXTINF:-1,group-title="24/7", 004:BARNEY
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60938
-#EXTINF:-1,group-title="24/7", 005:BATMAN BRAVE AND THE BOLD
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60937
-#EXTINF:-1,group-title="24/7", 006:BATMAN THE ANIMATED SERIES
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60936
-#EXTINF:-1,group-title="24/7", 007:BEN 10
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60935
-#EXTINF:-1,group-title="24/7", 008:STAR TREK
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60934
-#EXTINF:-1,group-title="24/7", 009:BLUE'S CLUES
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60933
-#EXTINF:-1,group-title="24/7", 010:BLUEY
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60932
-#EXTINF:-1,group-title="24/7", 011:CAPTAIN PLANET AND THE PLANETEERS
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60931
-#EXTINF:-1,group-title="24/7", 012:AMERICAN PICKERS
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60930
-#EXTINF:-1,group-title="24/7", 013:PARTS UNKNOWN
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60929
-#EXTINF:-1,group-title="24/7", 014:DISNEY MOVIES
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60928
-#EXTINF:-1,group-title="24/7", 015:DISNEY SONGS
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60927
-#EXTINF:-1,group-title="24/7", 016:DORA THE EXPLORER
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60926
-#EXTINF:-1,group-title="24/7", 017:CHICAGO MED
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60925
-#EXTINF:-1,group-title="24/7", 018:DRAGON BALL Z
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60924
-#EXTINF:-1,group-title="24/7", 019:DREAMWORKS ANIMATION
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60923
-#EXTINF:-1,group-title="24/7", 020:DUCK TALES
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60922
-#EXTINF:-1,group-title="24/7", 021:ELENA OF AVALOR
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60921
-#EXTINF:-1,group-title="24/7", 022:FRAGGLE ROCK
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60920
-#EXTINF:-1,group-title="24/7", 023:THE PJS
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60919
-#EXTINF:-1,group-title="24/7", 024:MORTAL KOMBAT
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60918
-#EXTINF:-1,group-title="24/7", 025:JOHNY TEST
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60917
-#EXTINF:-1,group-title="24/7", 026:LEGO STAR WARS
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60916
-#EXTINF:-1,group-title="24/7", 027:LITTLE EINSTEINS
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60915
-#EXTINF:-1,group-title="24/7", 028:LOONEY TUNES
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60914
-#EXTINF:-1,group-title="24/7", 029:MCMILLAN AND WIFE
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60913
-#EXTINF:-1,group-title="24/7", 030:MARVEL AVENGERS ASSEMBLE
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60912
-#EXTINF:-1,group-title="24/7", 031:MICKEY MOUSE CLUBHOUSE
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60911
-#EXTINF:-1,group-title="24/7", 032:MR BEAN ANIMATED
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60910
-#EXTINF:-1,group-title="24/7", 033:MUPPET BABIES SHOW
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60909
-#EXTINF:-1,group-title="24/7", 034:MY LITTLE PONY
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60908
-#EXTINF:-1,group-title="24/7", 035:PAW PATROL
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60907
-#EXTINF:-1,group-title="24/7", 036:PEPPA PIG
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60906
-#EXTINF:-1,group-title="24/7", 037:STAR TREK: NEXT GENERATION
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60905
-#EXTINF:-1,group-title="24/7", 038:PINKY AND THE BRAIN
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60904
-#EXTINF:-1,group-title="24/7", 039:PJ MASKS
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60903
-#EXTINF:-1,group-title="24/7", 040:POKEMON
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60902
-#EXTINF:-1,group-title="24/7", 041:POWER RANGERS
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60901
-#EXTINF:-1,group-title="24/7", 042:PUPPY DOG PALS
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60900
-#EXTINF:-1,group-title="24/7", 043:RUGRATS
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60899
-#EXTINF:-1,group-title="24/7", 044:SPONGEBOB SQUAREPANTS
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60898
-#EXTINF:-1,group-title="24/7", 045:SCOOBY-DOO
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60897
-#EXTINF:-1,group-title="24/7", 046:SCOOBY-DOO CLASSIC
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60896
-#EXTINF:-1,group-title="24/7", 047:SPIDERMAN
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60895
-#EXTINF:-1,group-title="24/7", 048:SCI-FI MOVIES
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60894
-#EXTINF:-1,group-title="24/7", 049:SPONGEBOB SQUARE PANTS
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60893
-#EXTINF:-1,group-title="24/7", 050:STAR WARS REBELS
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60892
-#EXTINF:-1,group-title="24/7", 051:STAR WARS THE CLONE WARS
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60891
-#EXTINF:-1,group-title="24/7", 052:EXPEDITION UNKNOWN
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60890
-#EXTINF:-1,group-title="24/7", 053:KUNG FU PANDA
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60889
-#EXTINF:-1,group-title="24/7", 054:SUPER WINGS
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60888
-#EXTINF:-1,group-title="24/7", 055:TEEN TITANS GO!
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60887
-#EXTINF:-1,group-title="24/7", 056:THE BATMAN
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60886
-#EXTINF:-1,group-title="24/7", 057:SAVED BY THE BELL
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60885
-#EXTINF:-1,group-title="24/7", 058:THE FLINTSTONES
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60884
-#EXTINF:-1,group-title="24/7", 059:THE GARFIELD SHOW
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60883
-#EXTINF:-1,group-title="24/7", 060:THE PINK PANTHER
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60882
-#EXTINF:-1,group-title="24/7", 061:EVERYBODY HATES CHRIS
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60881
-#EXTINF:-1,group-title="24/7", 062:THOMAS AND FRIENDS
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60880
-#EXTINF:-1,group-title="24/7", 063:TMNT
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60879
-#EXTINF:-1,group-title="24/7", 064:TOM AND JERRY
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60878
-#EXTINF:-1,group-title="24/7", 065:TOY STORY
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60877
-#EXTINF:-1,group-title="24/7", 066:TRANSFORMERS CARTOONS
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60876
-#EXTINF:-1,group-title="24/7", 067:ROB ZOMBIE MOVIES
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60875
-#EXTINF:-1,group-title="24/7", 068:X-MEN CARTOONS
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60874
-#EXTINF:-1,group-title="24/7", 069:STAR TREK VOYAGER
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60873
-#EXTINF:-1,group-title="24/7", 070:AL PACINO
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60872
-#EXTINF:-1,group-title="24/7", 071:ARNOLD SCHWARZENEGGER
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60871
-#EXTINF:-1,group-title="24/7", 072:BACK TO THE FUTURE
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60870
-#EXTINF:-1,group-title="24/7", 073:BATMAN MOVIES
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60869
-#EXTINF:-1,group-title="24/7", 074:BLADE MOVIES
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60868
-#EXTINF:-1,group-title="24/7", 075:BOXING MOVIES
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60867
-#EXTINF:-1,group-title="24/7", 076:CLINT EASTWOOD
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60866
-#EXTINF:-1,group-title="24/7", 077:BRUCE LEE MOVIES
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60865
-#EXTINF:-1,group-title="24/7", 078:CRIME MOVIES
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60864
-#EXTINF:-1,group-title="24/7", 079:DIE HARD
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60863
-#EXTINF:-1,group-title="24/7", 080:FAMILY MOVIES
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60862
-#EXTINF:-1,group-title="24/7", 081:FAST AND FURIOUS
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60861
-#EXTINF:-1,group-title="24/7", 082:FIFTY SHADES
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60860
-#EXTINF:-1,group-title="24/7", 083:GREASE
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60859
-#EXTINF:-1,group-title="24/7", 084:HARRY POTTER
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60858
-#EXTINF:-1,group-title="24/7", 085:HORROR MOVIES
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60857
-#EXTINF:-1,group-title="24/7", 086:INDIANA JONES
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60856
-#EXTINF:-1,group-title="24/7", 087:JAMES BOND
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60855
-#EXTINF:-1,group-title="24/7", 088:JASON BOURNE
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60854
-#EXTINF:-1,group-title="24/7", 089:JCVD MOVIES
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60853
-#EXTINF:-1,group-title="24/7", 090:JIM CARREY
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60852
-#EXTINF:-1,group-title="24/7", 091:JURASSIC PARK
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60851
-#EXTINF:-1,group-title="24/7", 092:FRIDAY THE 13TH
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60850
-#EXTINF:-1,group-title="24/7", 093:LETHAL WEAPON
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60849
-#EXTINF:-1,group-title="24/7", 094:LORD OF THE RINGS
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60848
-#EXTINF:-1,group-title="24/7", 095:MATRIX
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60847
-#EXTINF:-1,group-title="24/7", 096:MEN IN BLACK
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60846
-#EXTINF:-1,group-title="24/7", 097:TEXAS CHAINSAW MOVIES
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60845
-#EXTINF:-1,group-title="24/7", 098:PIRATES OF THE CARIBBEAN
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60844
-#EXTINF:-1,group-title="24/7", 099:PLANET OF THE APES
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60843
-#EXTINF:-1,group-title="24/7", 100:PREDATOR/ALIEN MOVIES
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60842
-#EXTINF:-1,group-title="24/7", 101:POLICE ACADEMY
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60841
-#EXTINF:-1,group-title="24/7", 102:RAMBO
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60840
-#EXTINF:-1,group-title="24/7", 103:ROCKY
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60839
-#EXTINF:-1,group-title="24/7", 104:ROMANCE MOVIES
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60838
-#EXTINF:-1,group-title="24/7", 105:RUSH HOUR
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60837
-#EXTINF:-1,group-title="24/7", 106:SCIFI MOVIES
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60836
-#EXTINF:-1,group-title="24/7", 107:QUENTIN TARANTINO MOVIES
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60835
-#EXTINF:-1,group-title="24/7", 108:SPORTS MOVIES
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60834
-#EXTINF:-1,group-title="24/7", 109:STAR TREK MOVIES
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60833
-#EXTINF:-1,group-title="24/7", 110:STAR WARS
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60832
-#EXTINF:-1,group-title="24/7", 111:STEVEN SEAGAL
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60258
-#EXTINF:-1,group-title="24/7", 112:SUPERHERO MOVIES
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60257
-#EXTINF:-1,group-title="24/7", 113:THE AVENGERS
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60256
-#EXTINF:-1,group-title="24/7", 114:MAGNUM PI
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60255
-#EXTINF:-1,group-title="24/7", 115:THE HANGOVER
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60254
-#EXTINF:-1,group-title="24/7", 116:THRILLER MOVIES
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60253
-#EXTINF:-1,group-title="24/7", 117:TRANSFORMERS
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60252
-#EXTINF:-1,group-title="24/7", 118:TRANSPORTER
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60251
-#EXTINF:-1,group-title="24/7", 119:TWILIGHT
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60250
-#EXTINF:-1,group-title="24/7", 120:VAMPIRE MOVIES
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60248
-#EXTINF:-1,group-title="24/7", 121:WAR MOVIES
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60247
-#EXTINF:-1,group-title="24/7", 122:WILL FERRELL MOVIES
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60246
-#EXTINF:-1,group-title="24/7", 123:X-MEN
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60244
-#EXTINF:-1,group-title="24/7", 124:21 JUMP STREET
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60243
-#EXTINF:-1,group-title="24/7", 125:24 HOURS IN POLICE CUSTODY
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60242
-#EXTINF:-1,group-title="24/7", 126:3RD ROCK FROM THE SUN
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60241
-#EXTINF:-1,group-title="24/7", 127:60 DAYS IN
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60240
-#EXTINF:-1,group-title="24/7", 128:90210
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60239
-#EXTINF:-1,group-title="24/7", 129:A DIFFERENT WORLD
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60238
-#EXTINF:-1,group-title="24/7", 130:ACCORDING TO JIM
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60237
-#EXTINF:-1,group-title="24/7", 131:ALF
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60234
-#EXTINF:-1,group-title="24/7", 132:ALICE
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60232
-#EXTINF:-1,group-title="24/7", 133:AMERICAN CHOPPER
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60231
-#EXTINF:-1,group-title="24/7", 134:AMERICAN DAD
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60225
-#EXTINF:-1,group-title="24/7", 135:ANCIENT ALIENS
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60224
-#EXTINF:-1,group-title="24/7", 136:ARCHER
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60222
-#EXTINF:-1,group-title="24/7", 137:ARE YOU AFRAID OF THE DARK
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60220
-#EXTINF:-1,group-title="24/7", 138:ARRESTED DEVELOPMENT
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60218
-#EXTINF:-1,group-title="24/7", 139:BAR RESCUE
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60216
-#EXTINF:-1,group-title="24/7", 140:BARNEY MILLER
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60215
-#EXTINF:-1,group-title="24/7", 141:BATMAN 1966
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60213
-#EXTINF:-1,group-title="24/7", 142:A NIGHTMARE ON ELM STREET
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60211
-#EXTINF:-1,group-title="24/7", 143:BAYWATCH
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60210
-#EXTINF:-1,group-title="24/7", 144:BEAVIS AND BUTTHEAD
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60208
-#EXTINF:-1,group-title="24/7", 145:ACTION MOVIES
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60207
-#EXTINF:-1,group-title="24/7", 146:BEWITCHED
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60205
-#EXTINF:-1,group-title="24/7", 147:BILLY THE EXTERMINATOR
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60203
-#EXTINF:-1,group-title="24/7", 148:BLUE BLOODS
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60202
-#EXTINF:-1,group-title="24/7", 149:BOBS BURGERS
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60201
-#EXTINF:-1,group-title="24/7", 150:BONANZA
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60199
-#EXTINF:-1,group-title="24/7", 151:BORDER SECURITY
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60197
-#EXTINF:-1,group-title="24/7", 152:BOY MEETS WORLD
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60196
-#EXTINF:-1,group-title="24/7", 153:BRADY BUNCH
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60195
-#EXTINF:-1,group-title="24/7", 154:BREAKING BAD
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60192
-#EXTINF:-1,group-title="24/7", 155:BROOKLYN NINE-NINE
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60191
-#EXTINF:-1,group-title="24/7", 156:BUFFY THE VAMPIRE SLAYER
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60190
-#EXTINF:-1,group-title="24/7", 157:BURN NOTICE
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60189
-#EXTINF:-1,group-title="24/7", 158:CHAPPELLE'S SHOW
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60188
-#EXTINF:-1,group-title="24/7", 159:CHARMED
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60187
-#EXTINF:-1,group-title="24/7", 160:CHEERS
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60186
-#EXTINF:-1,group-title="24/7", 161:COLUMBO
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60185
-#EXTINF:-1,group-title="24/7", 162:CRIMINAL MINDS
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60184
-#EXTINF:-1,group-title="24/7", 163:CURB YOUR ENTHUSIASM
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60180
-#EXTINF:-1,group-title="24/7", 164:DA ALI G SHOW
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60179
-#EXTINF:-1,group-title="24/7", 165:DALLAS
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60177
-#EXTINF:-1,group-title="24/7", 166:DEADLIEST CATCH
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60176
-#EXTINF:-1,group-title="24/7", 167:DEGRASSI JUNIOR HIGH
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60175
-#EXTINF:-1,group-title="24/7", 168:SIMPSONS TREEHOUSE OF HORROR
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60173
-#EXTINF:-1,group-title="24/7", 169:JET LI MOVIES
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60172
-#EXTINF:-1,group-title="24/7", 170:DIFF'RENT STROKES
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60171
-#EXTINF:-1,group-title="24/7", 171:DINERS, DRIVE-INS AND DIVES
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60170
-#EXTINF:-1,group-title="24/7", 172:DINOSAURS
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60169
-#EXTINF:-1,group-title="24/7", 173:DOG THE BOUNTY HUNTER
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60167
-#EXTINF:-1,group-title="24/7", 174:THE ALFRED HITCHCOCK HOUR
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60166
-#EXTINF:-1,group-title="24/7", 175:SABRINA THE TEENAGE WITCH
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60165
-#EXTINF:-1,group-title="24/7", 176:ROBOT CHICKEN
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60163
-#EXTINF:-1,group-title="24/7", 177:DRUG WARS
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60161
-#EXTINF:-1,group-title="24/7", 178:DUCK DYNASTY
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60160
-#EXTINF:-1,group-title="24/7", 179:DUKES OF HAZARD
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60156
-#EXTINF:-1,group-title="24/7", 180:ELLEN'S GAME OF GAMES
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60155
-#EXTINF:-1,group-title="24/7", 181:ENTOURAGE
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60153
-#EXTINF:-1,group-title="24/7", 182:EVERYBODY LOVES RAYMOND
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60152
-#EXTINF:-1,group-title="24/7", 183:F-TROOP
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60151
-#EXTINF:-1,group-title="24/7", 184:ROBIN WILLIAMS
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60147
-#EXTINF:-1,group-title="24/7", 185:FAMILY GUY
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60146
-#EXTINF:-1,group-title="24/7", 186:FAMILY MATTERS
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60143
-#EXTINF:-1,group-title="24/7", 187:FAMILY TIES
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60141
-#EXTINF:-1,group-title="24/7", 188:FANTASY ISLAND
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60140
-#EXTINF:-1,group-title="24/7", 189:FEAR FACTOR
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60139
-#EXTINF:-1,group-title="24/7", 190:FORENSIC FILES
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60138
-#EXTINF:-1,group-title="24/7", 191:FORGED IN FIRE
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60137
-#EXTINF:-1,group-title="24/7", 192:FRASIER
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60136
-#EXTINF:-1,group-title="24/7", 193:FRESH PRINCE OF BEL-AIR
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60135
-#EXTINF:-1,group-title="24/7", 194:FRIENDS
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60133
-#EXTINF:-1,group-title="24/7", 195:FULL HOUSE
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60132
-#EXTINF:-1,group-title="24/7", 196:GAME OF THRONES
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60131
-#EXTINF:-1,group-title="24/7", 197:GANGLAND
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60128
-#EXTINF:-1,group-title="24/7", 198:GANGLAND UNDERCOVER
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60127
-#EXTINF:-1,group-title="24/7", 199:GET SMART
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60126
-#EXTINF:-1,group-title="24/7", 200:GHOST ADVENTURES
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60125
-#EXTINF:-1,group-title="24/7", 201:GILLIGAN'S ISLAND
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60124
-#EXTINF:-1,group-title="24/7", 202:GILMORE GIRLS
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60123
-#EXTINF:-1,group-title="24/7", 203:EDDY MURPHY
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60122
-#EXTINF:-1,group-title="24/7", 204:GODFATHER OF HARLEM
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60121
-#EXTINF:-1,group-title="24/7", 205:THAT GIRL
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60120
-#EXTINF:-1,group-title="24/7", 206:GOLD RUSH
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60119
-#EXTINF:-1,group-title="24/7", 207:GOOD TIMES
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60118
-#EXTINF:-1,group-title="24/7", 208:GOOSEBUMPS
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60111
-#EXTINF:-1,group-title="24/7", 209:GROWING PAINS
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60110
-#EXTINF:-1,group-title="24/7", 210:GUNSMOKE
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60108
-#EXTINF:-1,group-title="24/7", 211:HAPPY DAYS
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60107
-#EXTINF:-1,group-title="24/7", 212:HAPPY ENDINGS
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60106
-#EXTINF:-1,group-title="24/7", 213:HARDCORE PAWN
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60105
-#EXTINF:-1,group-title="24/7", 214:HE-MAN MASTERS OF UNIVERSE
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60104
-#EXTINF:-1,group-title="24/7", 215:CHIPS
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60103
-#EXTINF:-1,group-title="24/7", 216:HOARDERS
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60102
-#EXTINF:-1,group-title="24/7", 217:HOGAN'S HEROES
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60100
-#EXTINF:-1,group-title="24/7", 218:HOME IMPROVEMENT
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60099
-#EXTINF:-1,group-title="24/7", 219:HOW I MET YOUR MOTHER
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60097
-#EXTINF:-1,group-title="24/7", 220:HOW IT’S MADE
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60095
-#EXTINF:-1,group-title="24/7", 221:I DREAM OF JEANNIE
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60094
-#EXTINF:-1,group-title="24/7", 222:I LOVE LUCY
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60091
-#EXTINF:-1,group-title="24/7", 223:IMPRACTICAL JOKERS
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60088
-#EXTINF:-1,group-title="24/7", 224:IN LIVING COLOR
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60087
-#EXTINF:-1,group-title="24/7", 225:INCREDIBLE HULK
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60086
-#EXTINF:-1,group-title="24/7", 226:INK MASTERS
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60085
-#EXTINF:-1,group-title="24/7", 227:COBRA KAI
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60084
-#EXTINF:-1,group-title="24/7", 228:JUST FOR LAUGHS
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60083
-#EXTINF:-1,group-title="24/7", 229:KEEPING UP WITH THE KARDASHIANS
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60081
-#EXTINF:-1,group-title="24/7", 230:KING OF THE HILL
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60080
-#EXTINF:-1,group-title="24/7", 231:KITCHEN NIGHTMARES
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60079
-#EXTINF:-1,group-title="24/7", 232:KNIGHT RIDER
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60078
-#EXTINF:-1,group-title="24/7", 233:LAST MAN STANDING
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60077
-#EXTINF:-1,group-title="24/7", 234:LIVING SINGLE
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60076
-#EXTINF:-1,group-title="24/7", 235:LIZARD LICK TOWING
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60075
-#EXTINF:-1,group-title="24/7", 236:LOST IN SPACE
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60071
-#EXTINF:-1,group-title="24/7", 237:M*A*S*H*
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60070
-#EXTINF:-1,group-title="24/7", 238:MAD ABOUT YOU
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60069
-#EXTINF:-1,group-title="24/7", 239:MAMA'S FAMILY
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60068
-#EXTINF:-1,group-title="24/7", 240:MAN WITH A PLAN
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60067
-#EXTINF:-1,group-title="24/7", 241:MARRIED WITH CHILDREN
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60066
-#EXTINF:-1,group-title="24/7", 242:MARTIN
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60064
-#EXTINF:-1,group-title="24/7", 243:MARY TYLER MOORE SHOW
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60063
-#EXTINF:-1,group-title="24/7", 244:MAYDAY
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60062
-#EXTINF:-1,group-title="24/7", 245:MIAMI VICE
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60061
-#EXTINF:-1,group-title="24/7", 246:MIKE & MOLLY
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60059
-#EXTINF:-1,group-title="24/7", 247:MELROSE PLACE
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60058
-#EXTINF:-1,group-title="24/7", 248:MODERN FAMILY
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60057
-#EXTINF:-1,group-title="24/7", 249:MOM
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60056
-#EXTINF:-1,group-title="24/7", 250:MOST EXPENSIVEST
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60053
-#EXTINF:-1,group-title="24/7", 251:MR BEAN
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60052
-#EXTINF:-1,group-title="24/7", 252:INTERVENTION
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60050
-#EXTINF:-1,group-title="24/7", 253:COMEDY MOVIES
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60049
-#EXTINF:-1,group-title="24/7", 254:MURDOCH MYSTERIES
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60048
-#EXTINF:-1,group-title="24/7", 255:CAR 54, WHERE ARE YOU!
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60047
-#EXTINF:-1,group-title="24/7", 256:MYTHBUSTERS
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60044
-#EXTINF:-1,group-title="24/7", 257:NAKED AND AFRAID
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60043
-#EXTINF:-1,group-title="24/7", 258:NEWHART
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60042
-#EXTINF:-1,group-title="24/7", 259:NIGHT COURT
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60041
-#EXTINF:-1,group-title="24/7", 260:SAW
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60038
-#EXTINF:-1,group-title="24/7", 261:OVERHAULING
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60037
-#EXTINF:-1,group-title="24/7", 262:OUTER LIMITS
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60035
-#EXTINF:-1,group-title="24/7", 263:PARKS AND RECREATION
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60034
-#EXTINF:-1,group-title="24/7", 264:PAWN STARS
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60033
-#EXTINF:-1,group-title="24/7", 265:PEAKY BLINDERS
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60032
-#EXTINF:-1,group-title="24/7", 266:PERFECT STRANGERS
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60028
-#EXTINF:-1,group-title="24/7", 267:PLANET EARTH
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60026
-#EXTINF:-1,group-title="24/7", 268:POWER
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60025
-#EXTINF:-1,group-title="24/7", 269:PRISON BREAK
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60023
-#EXTINF:-1,group-title="24/7", 270:QUANTUM LEAP
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60022
-#EXTINF:-1,group-title="24/7", 271:REBA
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60021
-#EXTINF:-1,group-title="24/7", 272:RED GREEN SHOW
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60020
-#EXTINF:-1,group-title="24/7", 273:RICK AND MORTY
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60019
-#EXTINF:-1,group-title="24/7", 274:RIDICULOUSNESS
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60018
-#EXTINF:-1,group-title="24/7", 275:ROSEANNE
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60017
-#EXTINF:-1,group-title="24/7", 276:MASTERCHEF
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60016
-#EXTINF:-1,group-title="24/7", 277:SEINFELD
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60014
-#EXTINF:-1,group-title="24/7", 278:SANFORD AND SON
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60013
-#EXTINF:-1,group-title="24/7", 279:SAVED BY THE BELL
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60012
-#EXTINF:-1,group-title="24/7", 280:SEX IN THE CITY
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60011
-#EXTINF:-1,group-title="24/7", 281:SCAM CITY
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60010
-#EXTINF:-1,group-title="24/7", 282:LAW & ORDER
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60009
-#EXTINF:-1,group-title="24/7", 283:SHARK TANK
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60007
-#EXTINF:-1,group-title="24/7", 284:SHE-RA: PRINCESS OF POWER
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60005
-#EXTINF:-1,group-title="24/7", 285:SHERLOCK
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/60004
-#EXTINF:-1,group-title="24/7", 286:SIMPSONS
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/30265
-
-
-=========================== Viaplay =============================================================
-#EXTINF:-1,group-title="Viaplay",
-http://viprteaapi.top:8080/VIP016711740843834357/e33cd35974af/39710
-#EXTINF:-1,group-title="Viaplay", VIAPLAY XTRA 1
-http://viprteaapi.top:8080/VIP016711740843834357/e33cd35974af/34147
-#EXTINF:-1,group-title="Viaplay", VIAPLAY XTRA 2
-http://viprteaapi.top:8080/VIP016711740843834357/e33cd35974af/34148
-#EXTINF:-1,group-title="Viaplay", VIAPLAY XTRA 3
-http://viprteaapi.top:8080/VIP016711740843834357/e33cd35974af/34149
-#EXTINF:-1group-title="Viaplay", VIAPLAY XTRA 4
-http://viprteaapi.top:8080/VIP016711740843834357/e33cd35974af/34150
-#EXTINF:-1,group-title="Viaplay", VIAPLAY XTRA 5
-http://viprteaapi.top:8080/VIP016711740843834357/e33cd35974af/34151
-#EXTINF:-1,group-title="Viaplay", VIAPLAY XTRA 6
-http://viprteaapi.top:8080/VIP016711740843834357/e33cd35974af/34152
-#EXTINF:-1,group-title="Viaplay", VIAPLAY XTRA 7
-http://viprteaapi.top:8080/VIP016711740843834357/e33cd35974af/34153
-#EXTINF:-1,group-title="Viaplay", VIAPLAY XTRA 8
-http://viprteaapi.top:8080/VIP016711740843834357/e33cd35974af/34154
-#EXTINF:-1,group-title="Viaplay", VIAPLAY XTRA 9
-http://viprteaapi.top:8080/VIP016711740843834357/e33cd35974af/34155
-#EXTINF:-1,group-title="Viaplay", VIAPLAY XTRA 10
-http://viprteaapi.top:8080/VIP016711740843834357/e33cd35974af/34156
-#EXTINF:-1,group-title="Viaplay", VIAPLAY XTRA 11
-http://viprteaapi.top:8080/VIP016711740843834357/e33cd35974af/34157
-#EXTINF:-1,group-title="Viaplay", VIAPLAY XTRA 12
-http://viprteaapi.top:8080/VIP016711740843834357/e33cd35974af/34158
-#EXTINF:-1,group-title="Viaplay", VIAPLAY XTRA 13
-http://viprteaapi.top:8080/VIP016711740843834357/e33cd35974af/34159
-#EXTINF:-1,group-title="Viaplay", VIAPLAY XTRA 14
-http://viprteaapi.top:8080/VIP016711740843834357/e33cd35974af/34160
-#EXTINF:-1,group-title="Viaplay", VIAPLAY XTRA 15
-http://viprteaapi.top:8080/VIP016711740843834357/e33cd35974af/34161
-#EXTINF:-1,group-title="Viaplay", VIAPLAY XTRA 16
-http://viprteaapi.top:8080/VIP016711740843834357/e33cd35974af/34162
-#EXTINF:-1,group-title="Viaplay", VIAPLAY XTRA 17
-http://viprteaapi.top:8080/VIP016711740843834357/e33cd35974af/34163
-#EXTINF:-1,group-title="Viaplay", VIAPLAY XTRA 18
-http://viprteaapi.top:8080/VIP016711740843834357/e33cd35974af/34164
-#EXTINF:-1,group-title="Viaplay", VIAPLAY XTRA 19
-http://viprteaapi.top:8080/VIP016711740843834357/e33cd35974af/34165
-#EXTINF:-1,group-title="Viaplay", VIAPLAY XTRA 20
-http://viprteaapi.top:8080/VIP016711740843834357/e33cd35974af/34166
-#EXTINF:-1,group-title="Viaplay", VIAPLAY XTRA 21
-http://viprteaapi.top:8080/VIP016711740843834357/e33cd35974af/34167
-#EXTINF:-1,group-title="Viaplay", VIAPLAY XTRA 22
-http://viprteaapi.top:8080/VIP016711740843834357/e33cd35974af/34168
-#EXTINF:-1,group-title="Viaplay", VIAPLAY XTRA 23
-http://viprteaapi.top:8080/VIP016711740843834357/e33cd35974af/34169
-#EXTINF:-1group-title="Viaplay", VIAPLAY XTRA 24
-http://viprteaapi.top:8080/VIP016711740843834357/e33cd35974af/34170
-#EXTINF:-1,group-title="Viaplay", VIAPLAY XTRA 25
-http://viprteaapi.top:8080/VIP016711740843834357/e33cd35974af/34171
-#EXTINF:-1,group-title="Viaplay", VIAPLAY XTRA 26
-http://viprteaapi.top:8080/VIP016711740843834357/e33cd35974af/34172
-#EXTINF:-1,group-title="Viaplay", VIAPLAY XTRA 27
-http://viprteaapi.top:8080/VIP016711740843834357/e33cd35974af/34173
-#EXTINF:-1,group-title="Viaplay", VIAPLAY XTRA 28
-http://viprteaapi.top:8080/VIP016711740843834357/e33cd35974af/34174
-#EXTINF:-1,group-title="Viaplay", VIAPLAY XTRA 29
-http://viprteaapi.top:8080/VIP016711740843834357/e33cd35974af/34175
-#EXTINF:-1,group-title="Viaplay", VIAPLAY XTRA 30
-http://viprteaapi.top:8080/VIP016711740843834357/e33cd35974af/34176
-#EXTINF:-1,group-title="Viaplay", VIAPLAY XTRA 31
-http://viprteaapi.top:8080/VIP016711740843834357/e33cd35974af/34177
-#EXTINF:-1,group-title="Viaplay", VIAPLAY XTRA 32
-http://viprteaapi.top:8080/VIP016711740843834357/e33cd35974af/34178
-#EXTINF:-1,group-title="Viaplay", VIAPLAY XTRA 33
-http://viprteaapi.top:8080/VIP016711740843834357/e33cd35974af/34179
-#EXTINF:-1,group-title="Viaplay", VIAPLAY XTRA 34
-http://viprteaapi.top:8080/VIP016711740843834357/e33cd35974af/34180
-#EXTINF:-1,group-title="Viaplay", VIAPLAY XTRA 35
-http://viprteaapi.top:8080/VIP016711740843834357/e33cd35974af/34181
-#EXTINF:-1,group-title="Viaplay", VIAPLAY XTRA 36
-http://viprteaapi.top:8080/VIP016711740843834357/e33cd35974af/34182
-#EXTINF:-1,group-title="Viaplay", VIAPLAY XTRA 37
-http://viprteaapi.top:8080/VIP016711740843834357/e33cd35974af/34183
-#EXTINF:-1,PL: VIAPLAY XTRA 38
-http://viprteaapi.top:8080/VIP016711740843834357/e33cd35974af/34184
-#EXTINF:-1,PL: VIAPLAY XTRA 39
-http://viprteaapi.top:8080/VIP016711740843834357/e33cd35974af/34185
-#EXTINF:-1,PL: VIAPLAY XTRA 40
-http://viprteaapi.top:8080/VIP016711740843834357/e33cd35974af/34186
-#EXTINF:-1,PL: VIAPLAY XTRA 41
-http://viprteaapi.top:8080/VIP016711740843834357/e33cd35974af/34187
-#EXTINF:-1,PL: VIAPLAY XTRA 42
-http://viprteaapi.top:8080/VIP016711740843834357/e33cd35974af/34188
-#EXTINF:-1,PL: VIAPLAY XTRA 43
-http://viprteaapi.top:8080/VIP016711740843834357/e33cd35974af/34189
-#EXTINF:-1,PL: VIAPLAY XTRA 44
-http://viprteaapi.top:8080/VIP016711740843834357/e33cd35974af/34190
-#EXTINF:-1,PL: VIAPLAY XTRA 45
-http://viprteaapi.top:8080/VIP016711740843834357/e33cd35974af/34191
 
 =========================== M4 Movies =============================================================
 #EXTM3U 
@@ -1766,46 +1087,6 @@ http://tv14s.xyz:8080/Gizvid192@giz.com/1234@4321/215432
 #EXTINF:-1,tvg-logo="https://iili.io/34hFErl.jpg" group-title="M4 Movies",   Zoe Saldana
 http://tv14s.xyz:8080/Gizvid192@giz.com/1234@4321/215433
 
-
-<======================== HBOMax ==========================>
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/zWdN67GV/images-1.png" group-title="HBOMax",HBOMax Original info ᴴᴰ
-http://blazetv.link:8080/suewall480@gmail.com/DybqAY27DRdJ/791557
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/zWdN67GV/images-1.png" group-title="HBOMax",HBOMax Original 1 ᴴᴰ
-http://blazetv.link:8080/suewall480@gmail.com/DybqAY27DRdJ/791558
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/zWdN67GV/images-1.png" group-title="HBOMax",HBOMax Original 2 ᴴᴰ
-http://blazetv.link:8080/suewall480@gmail.com/DybqAY27DRdJ/791559
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/zWdN67GV/images-1.png" group-title="HBOMax",HBOMax Original 3 ᴴᴰ
-http://blazetv.link:8080/suewall480@gmail.com/DybqAY27DRdJ/791560
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/zWdN67GV/images-1.png" group-title="HBOMax",HBOMax Original 4 ᴴᴰ
-http://blazetv.link:8080/suewall480@gmail.com/DybqAY27DRdJ/791561
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/zWdN67GV/images-1.png" group-title="HBOMax",HBOMax Original 5 ᴴᴰ
-http://blazetv.link:8080/suewall480@gmail.com/DybqAY27DRdJ/791562
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/zWdN67GV/images-1.png" group-title="HBOMax",HBOMax Original 6 ᴴᴰ
-http://blazetv.link:8080/suewall480@gmail.com/DybqAY27DRdJ/791563
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/zWdN67GV/images-1.png" group-title="HBOMax",HBOMax Original 7 ᴴᴰ
-http://blazetv.link:8080/suewall480@gmail.com/DybqAY27DRdJ/791564
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/zWdN67GV/images-1.png" group-title="HBOMax",HBOMax Original 8 ᴴᴰ
-http://blazetv.link:8080/suewall480@gmail.com/DybqAY27DRdJ/791565
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/zWdN67GV/images-1.png" group-title="HBOMax",HBOMax Original 9 ᴴᴰ
-http://blazetv.link:8080/suewall480@gmail.com/DybqAY27DRdJ/791566
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/zWdN67GV/images-1.png" group-title="HBOMax",HBOMax Original 10 ᴴᴰ
-http://blazetv.link:8080/suewall480@gmail.com/DybqAY27DRdJ/791567
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/zWdN67GV/images-1.png" group-title="HBOMax",HBOMax Original 11 ᴴᴰ
-http://blazetv.link:8080/suewall480@gmail.com/DybqAY27DRdJ/791568
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/zWdN67GV/images-1.png" group-title="HBOMax",HBOMax Original 12 ᴴᴰ
-http://blazetv.link:8080/suewall480@gmail.com/DybqAY27DRdJ/791569
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/zWdN67GV/images-1.png" group-title="HBOMax",HBOMax Original 13 ᴴᴰ
-http://blazetv.link:8080/suewall480@gmail.com/DybqAY27DRdJ/791570
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/zWdN67GV/images-1.png" group-title="HBOMax",HBOMax Original 14 ᴴᴰ
-http://blazetv.link:8080/suewall480@gmail.com/DybqAY27DRdJ/791571
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/zWdN67GV/images-1.png" group-title="HBOMax",HBOMax Original 15 ᴴᴰ
-http://blazetv.link:8080/suewall480@gmail.com/DybqAY27DRdJ/791572
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/zWdN67GV/images-1.png" group-title="HBOMax",HBOMax Original 16 ᴴᴰ
-http://blazetv.link:8080/suewall480@gmail.com/DybqAY27DRdJ/791573
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/zWdN67GV/images-1.png" group-title="HBOMax",HBOMax Original 17 ᴴᴰ
-http://blazetv.link:8080/suewall480@gmail.com/DybqAY27DRdJ/791574
-
 <======================== Disney+ =========================>
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/KjXP7rq0/disney-logo-png-seeklogo-367805.png" group-title="Disney+",Disney+ Premiere 1 ᴴᴰ
@@ -1917,12 +1198,17 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d5
 <======================== Movies ==========================>
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://iili.io/Jmo21Z7.png" group-title="Movies",Action hollywood
 https://lightning-actionhollywood-xiaomi.amagi.tv/playlist.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#EXTINF:-1 tvg-id="AXN" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://static.mncnow.id/images/channel/9c1a8446/733c_r32.jpg" group-title="Movies",AXN
-https://streaming.indihometv.com/atm/DASH/axn/manifest.mpd?ch=ParamountNetworkHD
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c5d5297a84f8b2de977f07286345c591:bdb773d6d25303b75a396b8040cfaf8c
+#EXTINF:-1 tvg-id="AXN HD - [Channel 438].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://iili.io/JZIBmlf.png" group-title="Movies", AXN
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/45002.m3u8
+
 #EXTINF:-1 tvg-id="Action Max" tvg-url="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDC_0SfAa5TkEMib6czNOlHyLnaN26P0sKJ1m5s9jZoJ4Dw5eCJ0ts2Q&s=10" group-title="Movies",Action Max
 http://xxip9.top:8080/live/Gizvid192@giz.com/1234@4321/21013.ts
 #EXTINF:-1 tvg-id="BBC America" tvg-url="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg3QyaeVLPMXtzqSRDdzH3S2YAOUHXZXNC-Q&s" group-title="Movies",BBC America
-http://mmk241018.wanicelife.com:8880/D12m4171/17795305/3160
+http://exm3u.extraott.com:900/live/ZUL96376/UG4VTW4E/13533.ts
 #EXTINF:-1 tvg-logo="https://iili.io/Jmnpha2.png" group-title="Movies",AMC
 https://vp-txpro.com:443/live/TheHybridX1187/gDz3hKWpXUNM/51957.ts
 #EXTINF:-1 tvg-logo="https://iili.io/Jmnpha2.png" group-title="Movies",AMC thrillers
@@ -1939,7 +1225,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170341bf
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
 #EXTINF:-1 tvg-id="CitraBioskop.id" tvg-name="" group-title="Movies" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/First_Media_logo.svg/1200px-First_Media_logo.svg.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFtctbjnECdTrPKZPWZn5biQDHlqONSTYEDpI7YkLt&s",Citra Bioskop 
-https://wahyu1ptv.pages.dev/CitraBioskop-HD.m3u8
+http://exm3u.extraott.com:900/live/ZUL96376/UG4VTW4E/401666269.ts
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 #EXTINF:-1 tvg-id="Celestial Movies" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://iili.io/Jmod11a.png" group-title="Movies",Celestial Movies
@@ -1991,7 +1277,11 @@ http://730068572688.cdn-eag.com:80/live/38:68:a4:35:35:04/3oyj4rbfty/1165799.ts
 http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/3124
 #EXTINF:-1 group-title="Movies" tvg-id="Cinema World" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://iili.io/Jmo9ReI.png",Cinema World
 https://wahyu1ptv.pages.dev/CinemaWorld-HD.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Movies" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://i.ibb.co.com/km8bKsQ/Black-and-White-Circle-Business-Logo-20241224-195342-0000.jpg",CIRCLE
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.dens.tv/images/channel-logo/92.jpg" group-title="Movies",My Cinema Europe
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Cinema_Europe_HD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Movies" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Circle_Network_logo.svg/512px-Circle_Network_logo.svg.png",CIRCLE
 http://mmk241018.wanicelife.com:8880/D12m4171/17795305/3071
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Movies" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://logowik.com/content/uploads/images/comet-tv1460.jpg",COMET
 http://Supersonictv.live:8080/live/006779/439866/22066.ts
@@ -2012,7 +1302,7 @@ http://xxip9.top:8080/live/Gizvid192@giz.com/1234@4321/13214.ts
 #EXTINF:-1 group-title="Movies"  tvg-logo="https://iili.io/JmnyrVs.png",FLIK
 https://wahyu1ptv.pages.dev/Flik-HD.m3u8
 #EXTINF:-1 group-title="Movies"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf9QFkUY-QJZFXrGtdrMxHZSLk1LxaO-PvMA&usqp=CAU",& FLIK
-http://watchindia.net:8880/live/72144/41454/2088.ts
+http://tv.cloudcdn.me:80/live.ts?channelId=49859&uid=9444&deviceMac=00:1A:79:A4:07:6A
 #EXTINF:-1 group-title="Movies"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf9QFkUY-QJZFXrGtdrMxHZSLk1LxaO-PvMA&usqp=CAU",& FRIVE
 http://watchindia.net:8880/live/72144/41454/2103.ts
 #EXTINF:-1 group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmFJbRKBem3i_T_OSaZvO8s0riWfOlfkYR1A&usqp=CAU",FXM
@@ -2026,7 +1316,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd|license_typ
 #EXTINF:-1 group-title="Movies" tvg-id="Galaxy" tvg-url="" tvg-logo="https://iili.io/Jmo9aXn.png",Galaxy
 https://nonton.site:8443/XtreamFlixID/w9RLHbWJY4/29604
 #EXTINF:-1 group-title="Movies" tvg-id="Galaxy Premium" tvg-url="" tvg-logo="https://iili.io/Jmo9YzX.png",Galaxy Premium
-http://filex.me:8080/live/Home329/Sohailhome/302245.ts
+https://nonton.site:8443/XtreamFlixID/w9RLHbWJY4/29603
 #EXTINF:-1 tvg-id="HBO (HD).sg"tvg-logo="https://iili.io/Jmo9Eg4.png" group-title="Movies",HBO
 https://nonton.site:8443/XtreamFlixID/w9RLHbWJY4/1496
 #EXTINF:-1 tvg-id="HBO Hits (HD).sg" tvg-logo="https://iili.io/Jmo90qG.png" group-title="Movies",HBO Hits
@@ -2148,8 +1438,10 @@ http://202.147.193.244/live/eds/Cinemachi-Xtra-HD/sa_dash/Cinemachi-Xtra-HD.mpd
 http://xtv.ooo:8080/live/Raza335/3355141450/348228.ts
 #EXTINF:-1 group-title="Movies" tvg-id="ONE" tvg-url="" tvg-logo="https://static.mncnow.id/images/channel/3ad70848/b686_r32.jpg",ONE
 https://nonton.site:8443/XtreamFlixID/w9RLHbWJY4/19
-#EXTINF:-1,tvg-logo="https://i.ibb.co.com/km8bKsQ/Black-and-White-Circle-Business-Logo-20241224-195342-0000.jpg" group-title="Movies", W Network
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/30191
+#EXTINF:-1 tvg-id="" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/wedo-tv-movies340x160@3x@3x.jpg" group-title="Movies",WeDot Movies
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+https://amg00735-amg00735c46-denstv-apac-7617.playouts.now.amagi.tv/playlist/amg00735-videosolutionsagfast-wedomoviesasia-denstvapac/cb553d1e786c648f99d43e65d4ef41a5df2406fc087a8d6933fb4b926bc10f41f8eda29ab30fb02b04940fa73f4e380d4d1a9a4ace0362d7b66aa9512a7d127f8adaf471d89a1417b2c11f5d7fe021414efc0e14d025522288a93c019738b3761d5cb95a381862cff95fad2704c18502d962288fafda7c387c0c5f820f5fb3f443a4aeb35f408c6ea4b91f4a924d3adda17a35404891b2ad2f8c7aff28a54bc3c7b3d28232bdbca312ca7729b0943a5819b8937092b33dfcbac82a51141659e38087fd314386ee45f2f767e4682bf19f2f9332dd8024ce4a36b0018a5b850a630ac03d8aee54a9a1b7de0d1477f484134c26a3ecae9ef4263be626d2acfdd87f3cb4f7173868fa2de0627a68deac9e4fc4d103cce770d3fa395478e794469092fdd1bfe1dd1acd759b87d2912f47486c1c4dd70ef4d43da944b71c87fd53192e2815fdd40491fc9b34574f409c8952d81261d7fd8291da0834d220561ac7539963470be8317f77f122e9905d349147eae4e9f5498753502105e2b0b46bb1b16f1286929e1c4e/8/848x480_1686360/index.m3u8
 #EXTINF:-1 tvg-id="Rock Action" tvg-url="" tvg-logo="https://static.mncnow.id/images/channel/b104eede/2fe8_r32.jpg" group-title="Movies",Rock Action
 https://wahyu1ptv.pages.dev/RockAction-HD.m3u8
 #EXTINF:-1 tvg-id="Rock Entertainment" tvg-url="" tvg-logo="https://static.mncnow.id/images/channel/72287d1c/3aef_r32.jpg" group-title="Movies",Rock Entertainment
@@ -2158,10 +1450,10 @@ https://wahyu1ptv.pages.dev/RockEntertainment-HD.m3u8
 http://xxip9.top:8080/live/BRIDGITS@YAHOO.COM/BRIDGITS@2022/35254.ts
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQECrTzkbAheo-hdeR9hzPhglZG8mB87NBSsw&usqp=CAU" group-title="Movies",Sky cinema premier
 http://xxip9.top:8080/live/BRIDGITS@YAHOO.COM/BRIDGITS@2022/35256.ts
-#EXTINF:-1 group-title="Movies" tvg-id="Zee Bioskop - [Channel 23].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://iili.io/JmoHYvV.png",Zee Bioskop
-http://xtv.ooo:8080/live/Raza335/3355141450/351060.ts
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://iili.io/JmoHayB.png" group-title="Movies",Zee Cinema
-http://xtv.ooo:8080/live/Raza335/3355141450/206307.ts
+#EXTINF:-1 group-title="Movies" tvg-id="Zee Bioskop - [Channel 23].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.transvision.co.id/img/channel/zee.png",Zee Bioskop
+http://exm3u.extraott.com:900/live/ZUL96376/UG4VTW4E/45087.ts
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/qss9gFuH.png" group-title="Movies",Zee Cinema
+http://tv.cloudcdn.me:80/live.ts?channelId=12359&uid=9444&deviceMac=00:1A:79:A4:07:6A
 
 <=============== Kids =====================>
 #EXTINF:-1 tvg-url="" tvg-logo="https://iili.io/JmoBj8g.png" group-title="Kids" tvg-id="" , Cartoon Network
@@ -2434,7 +1726,7 @@ https://duj0m5mtx2apx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroPremierLeague1.png" group-title="Sports", Asrto PremierLeague1
 http://viprteaapi.top:8080/live/VIP016711740843834357/e33cd35974af/34535.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroPremierLeague2.png" group-title="Sports", Asrto PremierLeague2
-http://viprteaapi.top:8080/live/VIP016711740843834357/e33cd35974af/34534.ts
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/6589.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroFootball.png" group-title="Sports", AstroFootball
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1170916
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroBadminton.png" group-title="Sports", AstroBadminton
@@ -2454,37 +1746,27 @@ https://wahyu1ptv.pages.dev/AstroArena2-HD.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroArenaBola.png" group-title="Sports", AstroArenaBola1
 https://wahyu1ptv.pages.dev/AstroArenaBola1-HD.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroArenaBola2.png" group-title="Sports", AstroArenaBola2
-https://wahyu1ptv.pages.dev/AstroArenaBola2-HD.m3u8
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/401550643.ts
 #EXTINF:-1 tvg-name="arena sport 1 croatia" tvg-logo="https://iili.io/Jmo5wj1.png" group-title="Sports",Arena Sport 1
-http://smiilee.xyz:8080/Carlosgarrido10/cWEgrMnNm1jHa/286689
+http://vip2.abtv.one:8000/805115400/1109.2322/12260
 #EXTINF:-1 tvg-name="arena sport 2 croatia" tvg-logo="https://iili.io/Jmo5wj1.png" group-title="Sports",Arena Sport 2
-http://smiilee.xyz:8080/Carlosgarrido10/cWEgrMnNm1jHa/286691
+http://vip2.abtv.one:8000/805115400/1109.2322/12250
 #EXTINF:-1 tvg-name="arena sport 3 croatia" tvg-logo="https://iili.io/Jmo5wj1.png" group-title="Sports",Arena Sport 3
-http://smiilee.xyz:8080/Carlosgarrido10/cWEgrMnNm1jHa/286692
+http://vip2.abtv.one:8000/805115400/1109.2322/12254
 #EXTINF:-1 tvg-name="arena sport 4 croatia" tvg-logo="https://iili.io/Jmo5wj1.png" group-title="Sports",Arena Sport 4
-http://smiilee.xyz:8080/Carlosgarrido10/cWEgrMnNm1jHa/286693
+http://vip2.abtv.one:8000/805115400/1109.2322/12258
 #EXTINF:-1 tvg-name="arena sport 5 croatia" tvg-logo="https://iili.io/Jmo5wj1.png" group-title="Sports",Arena Sport 5
-http://smiilee.xyz:8080/Carlosgarrido10/cWEgrMnNm1jHa/286694
-#EXTINF:-1 tvg-name="arena sport 6 croatia" tvg-logo="https://iili.io/Jmo5wj1.png" group-title="Sports",Arena Sport 6
-http://smiilee.xyz:8080/Carlosgarrido10/cWEgrMnNm1jHa/286695
-#EXTINF:-1 tvg-name="arena sport 7 croatia" tvg-logo="https://iili.io/Jmo5wj1.png" group-title="Sports",Arena Sport 7
-http://smiilee.xyz:8080/Carlosgarrido10/cWEgrMnNm1jHa/286696
-#EXTINF:-1 tvg-name="arena sport 8 croatia" tvg-logo="https://iili.io/Jmo5wj1.png" group-title="Sports",Arena Sport 8
-http://smiilee.xyz:8080/Carlosgarrido10/cWEgrMnNm1jHa/286697
-#EXTINF:-1 tvg-name="arena sport 9 croatia" tvg-logo="https://iili.io/Jmo5wj1.png" group-title="Sports",Arena Sport 9
-http://smiilee.xyz:8080/Carlosgarrido10/cWEgrMnNm1jHa/286698
-#EXTINF:-1 tvg-name="arena sport 10 croatia" tvg-logo="https://iili.io/Jmo5wj1.png" group-title="Sports",Arena Sport 10
-http://smiilee.xyz:8080/Carlosgarrido10/cWEgrMnNm1jHa/286690
+http://vip2.abtv.one:8000/805115400/1109.2322/12253
+#EXTINF:-1 tvg-name="arena sport 10 croatia" tvg-logo="https://iili.io/Jmo5wj1.png" group-title="Sports",Arena Sport Premium1
+http://vip2.abtv.one:8000/805115400/1109.2322/64501
+#EXTINF:-1 tvg-name="arena sport 10 croatia" tvg-logo="https://iili.io/Jmo5wj1.png" group-title="Sports",Arena Sport Premium2
+http://vip2.abtv.one:8000/805115400/1109.2322/99947
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://iili.io/JhkQl2V.png",BeinSport 1
-http://smiilee.xyz:8080/Carlosgarrido10/cWEgrMnNm1jHa/284782
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/191881.ts
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://iili.io/JhkQ9dN.png",BeinSport 2
-http://smiilee.xyz:8080/Carlosgarrido10/cWEgrMnNm1jHa/284783
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/29639.ts
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://iili.io/JhkQCrl.png",BeinSport 3
-http://smiilee.xyz:8080/Carlosgarrido10/cWEgrMnNm1jHa/284784
-#EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://iili.io/JhkQCrl.png",BeinSport 4
-http://smiilee.xyz:8080/Carlosgarrido10/cWEgrMnNm1jHa/284785
-#EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://iili.io/JhkQCrl.png",BeinSport 5
-http://smiilee.xyz:8080/Carlosgarrido10/cWEgrMnNm1jHa/284786
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/29637.ts
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png/revision/latest?cb=20201108180658",BeinSport Xtra
 http://smiilee.xyz:8080/Carlosgarrido10/cWEgrMnNm1jHa/285159
 #EXTINF:-1 tvg-id="Billiard TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwxmLY8pCgdwu4JQUnphl49hd9xajnVALx6w&usqp=CAU" group-title="Sports",Billiard TV
@@ -2509,34 +1791,32 @@ http://smiilee.xyz:8080/Carlosgarrido10/cWEgrMnNm1jHa/288289
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8|user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://i.ibb.co.com/94fJnTN/Dubai-Sports.jpg", Dubai sport 3
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8|user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/DaznSerieA.png" group-title="Sports",Dazn1 SerieA
+https://wahyu1ptv.pages.dev/DaznSerieA-HD.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://iili.io/2Z16Y4j.th.png", DAZN 1
-http://smiilee.xyz:8080/Carlosgarrido10/cWEgrMnNm1jHa/284136
+http://line.4k-beast.co:80/D0:D0:03:05:DE:73/45A205/1461422
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://iili.io/2Z16Y4j.th.png", DAZN 2
-http://smiilee.xyz:8080/Carlosgarrido10/cWEgrMnNm1jHa/284139
+http://line.4k-beast.co:80/D0:D0:03:05:DE:73/45A205/1461423
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://iili.io/2Z16Y4j.th.png", DAZN 3
-http://smiilee.xyz:8080/Carlosgarrido10/cWEgrMnNm1jHa/284142
+http://line.4k-beast.co:80/D0:D0:03:05:DE:73/45A205/1461424
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://iili.io/2Z16Y4j.th.png", DAZN 4
-http://smiilee.xyz:8080/Carlosgarrido10/cWEgrMnNm1jHa/284145
+http://line.4k-beast.co:80/D0:D0:03:05:DE:73/45A205/1461425
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://iili.io/2Z16Y4j.png", DAZN 5
-http://smiilee.xyz:8080/Carlosgarrido10/cWEgrMnNm1jHa/284148
+http://line.4k-beast.co:80/D0:D0:03:05:DE:73/45A205/1461426
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://iili.io/2Z16Y4j.png,", DAZN 6
-http://smiilee.xyz:8080/Carlosgarrido10/cWEgrMnNm1jHa/284151
+http://line.4k-beast.co:80/D0:D0:03:05:DE:73/45A205/1461440
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://iili.io/2Z16Y4j.png", DAZN F1
-http://smiilee.xyz:8080/Carlosgarrido10/cWEgrMnNm1jHa/289586
-
-#EXTINF:-1 tvg-id="ElevenSport1" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/eleven-sports-1-hd(1).png" group-title="Sports", ElevenSport1
-http://smiilee.xyz:8080/Carlosgarrido10/cWEgrMnNm1jHa/288281
-#EXTINF:-1 tvg-id="ElevenSport2" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/eleven-sports-2-hd(1).png" group-title="Sports", ElevenSport2
-http://smiilee.xyz:8080/Carlosgarrido10/cWEgrMnNm1jHa/288282
-#EXTINF:-1 tvg-id="ElevenSport3" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/eleven-sports-3-hd(1).png" group-title="Sports", ElevenSport3
+http://live.loltv.xyz:8080/live/tuARnwEJKw/uLXlewuxa0/5853.ts
+#EXTINF:-1 tvg-id="ElevenSport1" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/eleven-sports-1-hd(1).png" group-title="Sports",ElevenSport1
+https://wahyu1ptv.pages.dev/ElevenSports1-HD.m3u8
+#EXTINF:-1 tvg-id="ElevenSport2" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/eleven-sports-2-hd(1).png" group-title="Sports",ElevenSport2
+https://wahyu1ptv.pages.dev/ElevenSports2-HD.m3u8
+#EXTINF:-1 tvg-id="ElevenSport3" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/eleven-sports-3-hd(1).png" group-title="Sports",ElevenSport3
 https://wahyu1ptv.pages.dev/ElevenSports3-HD.m3u8
-#EXTINF:-1 tvg-id="ElevenSport4" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/eleven-sports-4-hd(1).png" group-title="Sports", ElevenSport4
-https://wahyu1ptv.pages.dev/ElevenSports4-HD.m3u8
-
 #EXTINF:-1 group-title="Sports"tvg-logo="https://iili.io/JhkZx6v.png",Eurosport 1
 http://filex.me:8080/live/Ghosia104/pathan104/495242.ts
 #EXTINF:-1 group-title="Sports"tvg-logo="https://iili.io/JhkZIFR.png",Eurosport 2
-http://filex.me:8080/live/Ghosia104/pathan104/495243.ts
+http://update.miicrosoft.es:80/live/AN2233795/sO0HIhVEWd38KH6OQnh2J5JwgCt8JX/70384.ts
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DiemaSport-logo.svg/400px-DiemaSport-logo.svg.png",Diema sport1
 http://yesimes.oknirvana.club:8880/D12m3714/63343961/30809
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DiemaSport-logo.svg/400px-DiemaSport-logo.svg.png",Diema sport2
@@ -2561,6 +1841,14 @@ http://opplex.tv:8080/live/12345678910/12345678910/347292.ts
 http://yesimes.oknirvana.club:8880/D12m3714/63343961/71107
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsnLYc1hd0ZFUYR2nXDZaW4HHQhG4Ek8oQ-Q&usqp=CAU" group-title="Sports",Glory Kickboxing
 http://defaultgen.com:3050/live/nmtv095/4hipcGzFkJ/594096.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Go3Sport.png" group-title="Sports",GoSportOpen
+https://wahyu1ptv.pages.dev/Go3SportOpen-HD.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Go3Sport1.png" group-title="Sports",GoSport1
+https://wahyu1ptv.pages.dev/Go3Sport1-HD.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Go3Sport2.png" group-title="Sports",GoSport2
+https://wahyu1ptv.pages.dev/Go3Sport2-HD.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Go3Sport3.png" group-title="Sports",GoSport3
+https://wahyu1ptv.pages.dev/Go3Sport3-HD.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb8Ho3J1CItaNLTHS8xfYqq6vkH20XG9Nig5-OSUsr8Jr5ZSNTkQ_l9K9u&s=10" group-title="Sports", Motor racing
 https://dai.google.com/linear/hls/event/qI1pC-R_Sma0bVLVjaEOtw/master.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/JmoznLv.png" group-title="Sports", Motorvision TV
@@ -2573,6 +1861,8 @@ https://wahyu1ptv.pages.dev/Match!Football1-HD.m3u8
 https://wahyu1ptv.pages.dev/Match!Football2-HD.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Match!Football3-HD.png" group-title="Sports", Match!Football3
 https://wahyu1ptv.pages.dev/Match!Football3-HD.m3u8
+#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/M%2BLaliga-picsay.png" group-title="Sports",M+ Laliga
+https://wahyu1ptv.pages.dev/MLaliga-HD.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://i.ibb.co.com/VQNCWvp/latest.png", MU tv
 http://filex.me:8080/live/Ghosia104/pathan104/495237.ts
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9xD0tglvaP2VEsXS_ZuhvsgQNl2MlTst_kA&usqp=CAU",Nova Sport
@@ -2584,8 +1874,9 @@ http://xxip9.top:8080/live/Gizvid192@giz.com/1234@4321/46726.ts
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://media.d3.nhle.com/image/private/t_ratio16_9-size20/dpr_2.0/f_png/prd/lhum6z3hyaga9ahnjow0.png",NHL Network
 http://xxip9.top:8080/live/Gizvid192@giz.com/1234@4321/20179.ts
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://i.ibb.co.com/WWx8M7p/ch621-425-305.png",Now Premier Sport 1
-http://extraott.com:900/live/9708461610/1164158489/400230451.ts
-
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/191694.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://i.ibb.co.com/WWx8M7p/ch621-425-305.png",Now Premier Sport 2
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/189891.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/OptusSport1-HD.png" group-title="Sports", OptusSport1
 https://wahyu1ptv.pages.dev/OptusSport1-HD.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/OptusSport2-HD.png" group-title="Sports", OptusSport2
@@ -2594,40 +1885,44 @@ https://wahyu1ptv.pages.dev/OptusSport2-HD.m3u8
 https://wahyu1ptv.pages.dev/OptusSport3-HD.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/OptusSport4-HD.png" group-title="Sports", OptusSport4
 https://wahyu1ptv.pages.dev/OptusSport4-HD.m3u8
-
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://i.ibb.co.com/km8bKsQ/Black-and-White-Circle-Business-Logo-20241224-195342-0000.jpg",PSJ TV
 https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://www.sportstravelmagazine.com/wp-content/uploads/2018/01/PBR_Professional_Bull_Riders-logo-6536F59C49-seeklogo.com_.png",PBR Ridepass
 http://defaultgen.com:3050/live/nmtv095/4hipcGzFkJ/593868.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/PFL-HD.png" group-title="Sports",PFL
+https://wahyu1ptv.pages.dev/PFL-HD.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/PS_Logo_STACKED_4.png/300px-PS_Logo_STACKED_4.png", PREMIER SPORT 1
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/28862
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/191694.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/PS_Logo_STACKED_4.png/300px-PS_Logo_STACKED_4.png", PREMIER SPORT 2
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/28861
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/189891.m3u8
 #EXTINF:-1 tvg-id="RedBull TV" tvg-logo="https://iili.io/JmozIrN.png" group-title="Sports",RedBull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/RMCSport1-HD.png" group-title="Sports",RMCSport
+https://wahyu1ptv.pages.dev/RmcSport1-HD.m3u8
 #EXTINF:-1 tvg-id="RedBull TV" tvg-logo="https://i.ibb.co.com/km8bKsQ/Black-and-White-Circle-Business-Logo-20241224-195342-0000.jpg" group-title="Sports",SK3
 http://defaultgen.com:3050/live/nmtv095/4hipcGzFkJ/656705.ts
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://i.ibb.co.com/km8bKsQ/Black-and-White-Circle-Business-Logo-20241224-195342-0000.jpg",RUSH SPORT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://tv14s.xyz:8080/live/753468/894568/99568.ts
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/376153.ts
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/SuperSport_1.png/revision/latest?cb=20111021101753",SUPERSPORT PREMIER LEAGUE
-http://extraott.com:900/live/3162523972/3791698850/190004.m3u8
+http://exm3u.extraott.com:900/live/ZUL96376/UG4VTW4E/190004.ts
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/SuperSport_1.png/revision/latest?cb=20111021101753",SUPERSPORT ACTION
 http://skyglass.vip:8080/live/MK172277/QN282828/21359.ts
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/SuperSport_1.png/revision/latest?cb=20111021101753",SUPERSPORT BLITZ
 http://yesimes.oknirvana.club:8880/D12m3714/63343961/60791
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/SuperSport_1.png/revision/latest?cb=20111021101753",SUPERSPORT RUGBY
-http://zentv.me:/live/JRC8V7B/4Z429P5/252102.ts
+http://exm3u.extraott.com:900/live/ZUL96376/UG4VTW4E/191771.ts
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/SuperSport_1.png/revision/latest?cb=20111021101753",SUPERSPORT FOOTBALL
 http://zentv.me:/live/JRC8V7B/4Z429P5/252100.ts
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/SuperSport_1.png/revision/latest?cb=20111021101753",SUPERSPORT LA LIGA
 http://extraott.com:900/live/3162523972/3791698850/190005.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/SuperSport_1.png/revision/latest?cb=20111021101753",SUPERSPORT PSL
 http://extraott.com:900/live/3162523972/3791698850/190003.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/SuperSport_1.png/revision/latest?cb=20111021101753",SUPERSPORT GrandStand
+http://exm3u.extraott.com:900/live/ZUL96376/UG4VTW4E/190015.ts
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/SuperSport_1.png/revision/latest?cb=20111021101753",SUPERSPORT MOTORSPORT
-http://zentv.me:/live/JRC8V7B/4Z429P5/252105.ts
+http://exm3u.extraott.com:900/live/ZUL96376/UG4VTW4E/191772.ts
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/SuperSport_1.png/revision/latest?cb=20111021101753",SUPERSPORT CRICKET
-http://zentv.me:/live/JRC8V7B/4Z429P5/252103.ts
+http://exm3u.extraott.com:900/live/ZUL96376/UG4VTW4E/191776.ts
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/SuperSport_1.png/revision/latest?cb=20111021101753",SUPERSPORT TENNIS
 http://extraott.com:900/live/3162523972/3791698850/191770.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/SuperSport_1.png/revision/latest?cb=20111021101753",SUPERSPORT GOLF
@@ -2635,7 +1930,7 @@ http://zentv.me:/live/JRC8V7B/4Z429P5/252104.ts
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/SuperSport_1.png/revision/latest?cb=20111021101753",SUPERSPORT GRANDSTAND
 http://extraott.com:900/live/3162523972/3791698850/190002.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/SuperSport_1.png/revision/latest?cb=20111021101753",SUPERSPORT VARIETY1
-http://zentv.me:/live/JRC8V7B/4Z429P5/252093.ts
+http://exm3u.extraott.com:900/live/ZUL96376/UG4VTW4E/190007.ts
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/SuperSport_1.png/revision/latest?cb=20111021101753",SUPERSPORT VARIETY2
 http://zentv.me:/live/JRC8V7B/4Z429P5/252094.ts
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/SuperSport_1.png/revision/latest?cb=20111021101753",SUPERSPORT VARIETY3
@@ -2657,11 +1952,13 @@ https://wahyu1ptv.pages.dev/SportStars2-HD.m3u8
 #EXTINF:-1 tvg-id="Soccer Channel HD - [Channel 420].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://iili.io/JjzVSAG.png" group-title="Sports",Soccer Channel
 http://opplex.tv:80/live/mother/mother/351002.ts
 #EXTINF:-1 tvg-id= "SPOTV HD" tvg-url="" tvg-logo="https://iili.io/JjzVsK7.png" group-title="Sports",SpoTV 1
-https://nonton.site:8443/XtreamFlixID/w9RLHbWJY4/728
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/400251883.ts
 #EXTINF:-1 tvg-id="SPOTV 2 HD"tvg-url="" tvg-logo="https://iili.io/JjzVPPS.png" group-title="Sports",SpoTV 2
-https://nonton.site:8443/XtreamFlixID/w9RLHbWJY4/729
-#EXTINF:-1 group-title="Sports" tvg-id="sonyten1.in" tvg-logo="https://seeklogo.com/images/S/Setanta_Sports-logo-7E43F5E542-seeklogo.com.gif",Setanta Sport
-http://bostv.one:8080/live/85483/85483/116816.ts
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/400459082.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SetantaSports1.png" group-title="Sports",SetantaSports1
+https://wahyu1ptv.pages.dev/Setanta1-HD.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SetantaSports2.png" group-title="Sports",SetantaSports2
+https://wahyu1ptv.pages.dev/Setanta2-HD.m3u8
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2669,46 +1966,46 @@ http://bostv.one:8080/live/85483/85483/116816.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://seeklogo.com/images/S/Setanta_Sports-logo-7E43F5E542-seeklogo.com.gif",Sport Extrem
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6857fe540a1018060a4379740b7/manifest.mpd|license_type=com.widevine.alpha&license_key=https://cubmu-cindo.cenc16995.workers.dev/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Sports" tvg-id="sonyten1.in" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SonySports1.png",Sony Sports Ten 1 
-http://opplex.tv:8080/live/mother/mother/167570.ts
-#EXTINF:-1 group-title="Sports" tvg-id="sonyten2.in" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SonySports2.png",Sony Sports Ten 2 
-http://opplex.tv:8080/live/mother/mother/167571.ts
-#EXTINF:-1 group-title="Sports" tvg-id="sonyten3.in" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SonySports3.png",Sony Sports Ten 3 
-http://opplex.tv:8080/live/mother/mother/167572.ts
-#EXTINF:-1 group-title="Sports" tvg-id="sonyten3.in" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SonySports4.png",Sony Sports Ten 4
-http://opplex.tv:8080/live/mother/mother/167595.ts
-#EXTINF:-1 group-title="Sports" tvg-id="sonyten3.in" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SonySports5.png",Sony Sports Ten 5
-http://opplex.tv:8080/live/mother/mother/167580.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SonySports1.png" group-title="Sports",SonySports1
+https://wahyu1ptv.pages.dev/SonySports1-HD.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SonySports2.png" group-title="Sports",SonySports2
+https://wahyu1ptv.pages.dev/SonySports2-HD.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SonySports3.png" group-title="Sports",SonySports3
+https://wahyu1ptv.pages.dev/SonySports3-HD.m3u8
+#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SonySports4.png" group-title="Sports",SonySports4
+https://wahyu1ptv.pages.dev/SonySports4-HD.m3u8
+#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SonySports5.png" group-title="Sports",SonySports5
+https://wahyu1ptv.pages.dev/SonySports5-HD.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://e7.pngegg.com/pngimages/498/730/png-clipart-sky-sports-news-sky-sports-f1-television-channel-sports-miscellaneous-television-thumbnail.png" tvg-logo="",SkySport Arena
-http://yesimes.oknirvana.club:8880/D12m3714/63343961/2902
+http://tv14s.xyz:8080/Gizvid192@giz.com/1234@4321/35238
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://e7.pngegg.com/pngimages/498/730/png-clipart-sky-sports-news-sky-sports-f1-television-channel-sports-miscellaneous-television-thumbnail.png",SkySport Premier League
-http://yesimes.oknirvana.club:8880/D12m3714/63343961/2877
+http://tv14s.xyz:8080/Gizvid192@giz.com/1234@4321/35241
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://e7.pngegg.com/pngimages/498/730/png-clipart-sky-sports-news-sky-sports-f1-television-channel-sports-miscellaneous-television-thumbnail.png" tvg-logo="",SkySport FottBall
 http://yesimes.oknirvana.club:8880/D12m3714/63343961/2870
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://e7.pngegg.com/pngimages/498/730/png-clipart-sky-sports-news-sky-sports-f1-television-channel-sports-miscellaneous-television-thumbnail.png" tvg-logo="",SkySport Laliga
 http://smiilee.xyz:8080/Carlosgarrido10/cWEgrMnNm1jHa/290125
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://e7.pngegg.com/pngimages/498/730/png-clipart-sky-sports-news-sky-sports-f1-television-channel-sports-miscellaneous-television-thumbnail.png" tvg-logo="",SkySport Bundes liga
-http://smiilee.xyz:8080/Carlosgarrido10/cWEgrMnNm1jHa/290126
+https://wahyu1ptv.pages.dev/SkySportBundesliga1-HD.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://e7.pngegg.com/pngimages/498/730/png-clipart-sky-sports-news-sky-sports-f1-television-channel-sports-miscellaneous-television-thumbnail.png" tvg-logo="",SkySport Calcio
-http://yesimes.oknirvana.club:8880/D12m3714/63343961/2687
+https://wahyu1ptv.pages.dev/SkySportCalcio-HD.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://e7.pngegg.com/pngimages/498/730/png-clipart-sky-sports-news-sky-sports-f1-television-channel-sports-miscellaneous-television-thumbnail.png" tvg-logo="",SkySport F1
-http://yesimes.oknirvana.club:8880/D12m3714/63343961/2876
+http://tv14s.xyz:8080/Gizvid192@giz.com/1234@4321/53704
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://e7.pngegg.com/pngimages/498/730/png-clipart-sky-sports-news-sky-sports-f1-television-channel-sports-miscellaneous-television-thumbnail.png" tvg-logo="",SkySport motoGp
-http://yesimes.oknirvana.club:8880/D12m3714/63343961/28473
+https://wahyu1ptv.pages.dev/SkySportMotoGP-HD.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://e7.pngegg.com/pngimages/498/730/png-clipart-sky-sports-news-sky-sports-f1-television-channel-sports-miscellaneous-television-thumbnail.png" tvg-logo="",SkySport Racing
 http://smiilee.xyz:8080/Carlosgarrido10/cWEgrMnNm1jHa/281430
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://e7.pngegg.com/pngimages/498/730/png-clipart-sky-sports-news-sky-sports-f1-television-channel-sports-miscellaneous-television-thumbnail.png" tvg-logo="",SkySport Golf
-http://yesimes.oknirvana.club:8880/D12m3714/63343961/2878
+http://tv14s.xyz:8080/Gizvid192@giz.com/1234@4321/35240
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://e7.pngegg.com/pngimages/498/730/png-clipart-sky-sports-news-sky-sports-f1-television-channel-sports-miscellaneous-television-thumbnail.png" tvg-logo="",SkySport Main Event
-http://yesimes.oknirvana.club:8880/D12m3714/63343961/2881
+http://tv14s.xyz:8080/Gizvid192@giz.com/1234@4321/35243
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://e7.pngegg.com/pngimages/498/730/png-clipart-sky-sports-news-sky-sports-f1-television-channel-sports-miscellaneous-television-thumbnail.png" tvg-logo="",SkySport Action
 http://yesimes.oknirvana.club:8880/D12m3714/63343961/2880
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://e7.pngegg.com/pngimages/498/730/png-clipart-sky-sports-news-sky-sports-f1-television-channel-sports-miscellaneous-television-thumbnail.png" tvg-logo="",SkySport Tennis
 http://yesimes.oknirvana.club:8880/D12m3714/63343961/29070
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://e7.pngegg.com/pngimages/498/730/png-clipart-sky-sports-news-sky-sports-f1-television-channel-sports-miscellaneous-television-thumbnail.png" tvg-logo="",SkySport Cricket
-http://yesimes.oknirvana.club:8880/D12m3714/63343961/2879
+http://tv14s.xyz:8080/Gizvid192@giz.com/1234@4321/45940
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://e7.pngegg.com/pngimages/498/730/png-clipart-sky-sports-news-sky-sports-f1-television-channel-sports-miscellaneous-television-thumbnail.png" tvg-logo="",SkySport Mix
-http://xxip9.top:8080/live/BRIDGITS@YAHOO.COM/BRIDGITS@2022/53706.ts
+http://tv14s.xyz:8080/Gizvid192@giz.com/1234@4321/53706
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Sport.TV1.png" group-title="Sports", Sport.TV1
 https://wahyu1ptv.pages.dev/Sport.TV1-HD.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Sport.TV2.png" group-title="Sports", Sport.TV2
@@ -2745,7 +2042,14 @@ https://wahyu1ptv.pages.dev/TNTSports2-HD.m3u8
 https://wahyu1ptv.pages.dev/TNTSports3-HD.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://iili.io/JV1m3dv.png",TNT SPORT 4
 https://wahyu1ptv.pages.dev/TNTSports4-HD.m3u8
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/T1.png" group-title="Sports",TringSport1
+https://wahyu1ptv.pages.dev/Tring1-HD.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/T2.png" group-title="Sports",TringSport2
+https://wahyu1ptv.pages.dev/Tring2-HD.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/T3.png" group-title="Sports",TringSport3
+https://wahyu1ptv.pages.dev/Tring3-HD.m3u8
+#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/TenSports.png" group-title="Sports",TenSports
+https://wahyu1ptv.pages.dev/TenSports-HD.m3u8
 #EXTINF:-1,Canal+ Sport HD
 http://bocian.io:8880/zapomnialam74/ODUyMTYyMTI1/105520
 #EXTINF:-1,Canal+ Sport 2 HD
@@ -2803,9 +2107,13 @@ http://xxip9.top:8080/live/Gizvid192@giz.com/1234@4321/57471.ts
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://www.cricketwillow.com.au/site/themes/decemvir/images/Cricket_Willow.png",WILLOW CRICKET
 http://xxip9.top:8080/live/BRIDGITS@YAHOO.COM/BRIDGITS@2022/58847.ts	
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://i.ibb.co.com/JpSCjWK/download-1.png",WWE
-http://yesimes.oknirvana.club:8880/D12m3714/63343961/3083
+https://wahyu1ptv.pages.dev/AstroWWE-HD.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/YES_Network_logo.svg/400px-YES_Network_logo.svg.png",YES NETWORK
 http://xxip9.top:8080/live/BRIDGITS@YAHOO.COM/BRIDGITS@2022/57972.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ZiggoSport.png" group-title="Sports",ZiggoSport
+https://wahyu1ptv.pages.dev/ZiggoSport-HD.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ZiggoSport2.png" group-title=Sports",ZiggoSport
+https://wahyu1ptv.pages.dev/ZiggoSport2-HD.m3u8
 
 <====================== News ========================>
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/494/982/png-transparent-united-states-voice-of-america-internet-radio-voa-amharic-broadcasting-united-states-text-logo-united-states.png" group-title="News",Voice Of America
@@ -2824,46 +2132,22 @@ http://bestp55.xyz:80/A7FC77529786/519C32219872/1052442
 http://op-group1-swiftservehd-1.dens.tv/h/h209/02.m3u8|user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1&referrer=http://dens.tv
 #EXTINF:-1 tvg-logo="https://iili.io/Jhksqjs.png" group-title="News",BBC News
 http://forevertv.me:2095/MichaelBe/meG7eaUeXMCpEm/153246
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTINF:-1 group-title="News" tvg-id="ABC Australia - [Channel 350].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://iili.io/JmoKxjV.png" ,ABC Australia
-https://av-ch-cdn.mncnow.id/live/eds/AustraliaPlus/sa_dash/AustraliaPlus.mpd|license_type=com.widevine.alpha&license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36&referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/17380.ts
 #EXTINF:-1 group-title="News" tvg-id="Al Jazeera English - [Channel 331].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://iili.io/JhksBZG.png",Al Jazeera
-https://av-ch-cdn.mncnow.id/live/eds/AlJazeeraInternational/sa_dash/AlJazeeraInternational.mpd|license_type=com.widevine.alpha&license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36&referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/33019.ts
 #EXTINF:-1 tvg-id="CGTN - [Channel 353].id" tvg-url="" tvg-logo="https://iili.io/JhksoG4.png" group-title="News",CGTN
-https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729c8468973bfe/manifest.mpd|license_type=com.widevine.alpha&license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/45000.ts
 #EXTINF:-1 tvg-id="Bloomberg - [Channel 338].id" tvg-url="" tvg-logo="https://w7.pngwing.com/pngs/603/650/png-transparent-bloomberg-television-hd-logo-thumbnail.png" group-title="News",Bloomberg
-https://streaming.indihometv.com/atm/DASH/BLOOMBERG/manifest.mpd
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/400200749.ts
 #EXTINF:-1 tvg-id="NHK World - [Channel 355].id" tvg-name="NHKWorldJapan.jp" tvg-url="" tvg-logo="https://iili.io/Jhks7wu.png" group-title="News",NHK World Japan
-https://av-ch-cdn.mncnow.id/live/eds/NHKWorldTV/sa_dash/NHKWorldTV.mpd|license_type=com.widevine.alpha&license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36&referrer=https://www.visionplus.id/
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/45044.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/NHK_E_2024.png/revision/latest?cb=20240607212927" group-title="News",NHK EDUCATION
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS292&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 group-title="News" tvg-id="NHK World Premium - [Channel 354].id" tvg-url="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/nhk_150.png",NHK World Premium
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052564
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-name="" tvg-id="FOX News - [Channel 335].id" tvg-url="" tvg-logo="https://iili.io/JmKvC37.png" group-title="News",FOX News
-https://av-ch-cdn.mncnow.id/live/eds/FoxNews/sa_dash/FoxNews.mpd|license_type=com.widevine.alpha&license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36&referrer=https://www.visionplus.id/
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/45009.ts
 #EXTINF:-1 group-title="News" tvg-id="DW English - [Channel 357].id" tvg-url="" tvg-logo="https://iili.io/Jhksu87.png",DW
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052485
 #EXTINF:-1 group-title="News" tvg-id="France 24 English - [Channel 352].id" tvg-url="" tvg-logo="https://iili.io/Jhks5ue.png",France 24
@@ -2882,7 +2166,9 @@ https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist_4300k.m3u8
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="News" tvg-id="TRT World" tvg-url="" tvg-logo="https://iili.io/Jhks06Q.png",TRT World
-https://av-ch-cdn.mncnow.id/live/eds/TRTWorld/sa_dash/TRTWorld.mpd|license_type=com.widevine.alpha&license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36&referrer=https://www.visionplus.id/
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/191786.ts
+#EXTINF:-1 group-title="News" tvg-id="TRT World" tvg-url="" tvg-logo="",TBN Asia
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/401666228.ts
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTINF:-1 tvg-id="SEA TODAY - [Channel 336].id" tvg-url=""tvg-logo="https://iili.io/JV3xLAl.png" group-title="News",SEA Today 
@@ -2891,16 +2177,12 @@ https://cdn09jtedge.indihometv.com/atm/DASH/seatoday/manifest.mpd
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052458
 #EXTINF:-1 group-title="News" tvg-id="Channel News Asia - [Channel 330].id" tvg-url="" tvg-logo="https://iili.io/Jhksx6l.png",CNA
 http://bestp55.xyz:80/A7FC77529786/519C32219872/1052454
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTINF:-1 group-title="News" tvg-id="" tvg-url="" tvg-logo="https://images.squarespace-cdn.com/content/v1/5cf4dec937a44b00019d908f/1559574960556-C7EGQERUCYQJ92N7JRV1/Hi+res+Russia+Today+logo+2.jpg?format=2500w",Russia Today
-https://av-ch-cdn.mncnow.id/live/eds/RTEnglish/sa_dash/RTEnglish.mpd|license_type=com.widevine.alpha&license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36&referrer=https://www.visionplus.id/
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/401666233.ts
 #EXTINF:-1 group-title="News" tvg-id="Channel News Asia - [Channel 330].id" tvg-url="" tvg-logo="",RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-id="Sky News" tvg-url="" tvg-logo="https://static.skyassets.com/contentstack/assets/bltdc2476c7b6b194dd/blt0e812837fa415f58/60b7964ff393f31ac4328967/Sky-News-Thumbnail.jpg" group-title="News",Sky News
-http://wanicelife.com:8880/kg14m3n1116/sfdsdrgr2334/2886
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/153846.ts
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
